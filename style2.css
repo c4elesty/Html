@@ -1,0 +1,27 @@
+img{
+    width: 700px;
+    height:700px;
+    border-width: thick;
+    border-color: steelblue;
+}
+img{
+    border: 5px solid #555;
+    border-radius: 20px;
+}
+nav{
+    background-color:darkcyan;
+    padding: 10px;
+}
+nav ul{
+        list-style-type: none;
+        text-align:center;
+}
+nav ul li{
+    display:inline;
+    margin: 10px;
+}
+nav ul li a{
+    color:white;
+    text-decoration: rebeccapurple;
+    font-size:xx-large;
+}
